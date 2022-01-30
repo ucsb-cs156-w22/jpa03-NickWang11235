@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-NickWang11235/branch/master/graph/badge.svg?token=YPRSos2ITM)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-NickWang11235)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-NickWang11235/branch/main/graph/badge.svg?token=YPRSos2ITM)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-NickWang11235)
 
 
 # demo-spring-react-example: dsre
